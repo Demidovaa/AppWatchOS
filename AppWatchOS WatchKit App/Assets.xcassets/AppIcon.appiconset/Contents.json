@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Icon-48.png",
       "idiom" : "watch",
       "role" : "notificationCenter",
       "scale" : "2x",
@@ -8,6 +9,7 @@
       "subtype" : "38mm"
     },
     {
+      "filename" : "Icon-55.png",
       "idiom" : "watch",
       "role" : "notificationCenter",
       "scale" : "2x",
